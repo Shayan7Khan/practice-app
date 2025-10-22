@@ -1,2 +1,2 @@
-#myApp
-this is a practice app to practice git hub
+#MyApp
+This is a practice app to practice git hub
